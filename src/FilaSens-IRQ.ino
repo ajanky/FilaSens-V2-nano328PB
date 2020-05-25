@@ -1,5 +1,5 @@
 /*
- FilaSense V0.5
+ FilaSense V0.9
  (c) 2020 Andreas Jankowsky / 3BOTS 3D Engineering GmbH
  
  FUSE Values for ATMEGA328PB;
@@ -156,7 +156,7 @@ void test(void) {
 }
 
 void IRQ() {
-if (digitalRead (ENCB)) 
+if (digitalRead (ENCB))   // easy counting: electronic encoder is is bounce-free
      count++;
 else count--; 
 }

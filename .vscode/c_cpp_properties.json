@@ -6,8 +6,8 @@
         {
             "name": "Win32",
             "includePath": [
-                "z:/VisualStudio/FilaSens-nanoatmega328/include",
-                "z:/VisualStudio/FilaSens-nanoatmega328/src",
+                "z:/VisualStudio/FilaSens-V2-nano328PB/include",
+                "z:/VisualStudio/FilaSens-V2-nano328PB/src",
                 "C:/Users/ajanky/.platformio/lib/U8g2_ID942/src",
                 "C:/Users/ajanky/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
                 "C:/Users/ajanky/.platformio/lib/MagAlpha Angle Sensor Library_ID899/src",
@@ -29,8 +29,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "z:/VisualStudio/FilaSens-nanoatmega328/include",
-                    "z:/VisualStudio/FilaSens-nanoatmega328/src",
+                    "z:/VisualStudio/FilaSens-V2-nano328PB/include",
+                    "z:/VisualStudio/FilaSens-V2-nano328PB/src",
                     "C:/Users/ajanky/.platformio/lib/U8g2_ID942/src",
                     "C:/Users/ajanky/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
                     "C:/Users/ajanky/.platformio/lib/MagAlpha Angle Sensor Library_ID899/src",
